@@ -40,3 +40,8 @@ This Power BI dashboard analyzes Walmart sales performance across 45 stores betw
 - Dashboard Design
 - KPI Analysis
 - Business Intelligence
+- ## Author
+
+Ahmed Shaban
+
+GitHub: https://github.com/ahmed-shaban-data
