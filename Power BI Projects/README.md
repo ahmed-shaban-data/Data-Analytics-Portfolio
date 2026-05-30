@@ -29,3 +29,14 @@ This Power BI dashboard analyzes Walmart sales performance across 45 stores betw
 - Bar Chart
 - Line Chart
 - Interactive Slicers
+- ## Skills Demonstrated
+
+- Power BI
+- Power Query
+- DAX
+- Data Cleaning
+- Data Modeling
+- Data Visualization
+- Dashboard Design
+- KPI Analysis
+- Business Intelligence
