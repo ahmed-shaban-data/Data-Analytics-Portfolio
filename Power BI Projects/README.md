@@ -1,4 +1,4 @@
-# Walmart Sales Analytics Dashboard
+📊 Walmart Sales Analytics Dashboard | Power BI
 
 ## Project Overview
 This Power BI dashboard analyzes Walmart sales performance across 45 stores between 2010 and 2012.
