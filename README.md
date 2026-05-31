@@ -20,3 +20,9 @@ Welcome to my Data Analytics Portfolio.
 
 ## Author
 Ahmed Shaban
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/ahmed-shaban-764
+
+GitHub: https://github.com/ahmed-shaban-data
