@@ -17,3 +17,6 @@ This dashboard analyzes employee attrition, demographics, job roles, and workfor
 ## Files
 - HR Analytics Dashboard.pbix
 - Dashboard Screenshot
+## Dashboard Preview
+
+![HR Dashboard](Screenshot Hr.png)
