@@ -25,4 +25,4 @@ This dashboard analyzes employee attrition, demographics, job roles, and workfor
 
 ## Dashboard Preview
 
-![HR Dashboard](Screenshot%20Hr.png)
+![HR Dashboard](hr_dashboard.png)
