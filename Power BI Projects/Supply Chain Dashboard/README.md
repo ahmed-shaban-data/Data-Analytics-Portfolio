@@ -13,7 +13,7 @@ This Power BI dashboard analyzes supply chain performance across products, suppl
 
 ## Dashboard Preview
 
-![Dashboard](Supply Chain Performance Dashboard Power BI.png)
+<img src="dashboard.png" width="1000">
 
 ## Tools Used
 
