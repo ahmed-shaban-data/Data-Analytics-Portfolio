@@ -13,29 +13,48 @@ Data Analyst passionate about transforming raw data into actionable insights usi
 - Data Visualization
 - Dashboard Design
 
----
-
 ## Power BI Projects
 
-### Supply Chain Performance Dashboard
-Supply chain analysis dashboard focusing on revenue, stock, suppliers, transportation modes, and defect rates.
-
 ### HR Analytics Dashboard
-HR dashboard analyzing employee performance, attrition, and workforce insights.
+- Employee Attrition Analysis
+- Interactive Power BI Dashboard
+- HR KPIs and Insights
 
----
+📁 Location:
+Power BI Projects / HR Analytics Dashboard
+
+### Supply Chain Performance Dashboard
+- Revenue Analysis
+- Supplier Performance
+- Transportation Analysis
+- Defect Rate Monitoring
+
+📁 Location:
+Power BI Projects / Supply Chain Dashboard
 
 ## SQL Projects
 
-### Sales Analysis SQL Project
-SQL project for sales analysis, KPIs, customer behavior, and business insights.
+### Sales Analysis
+- Data Exploration
+- Business Insights
+- SQL Queries and Reporting
 
----
+📁 Location:
+SQL Projects
 
-## Connect With Me
+## Tools & Skills
 
-LinkedIn:
-www.linkedin.com/in/ahmed-shaban-764
+- SQL
+- Excel
+- Power BI
+- DAX
+- Power Query
+- Data Modeling
+- Dashboard Design
+- Data Visualization
 
-GitHub:
-https://github.com/ahmed-shaban-data
+## Contact
+
+LinkedIn: ضع رابط لينكدإن هنا
+
+GitHub: https://github.com/ahmed-shaban-data
