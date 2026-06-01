@@ -17,3 +17,4 @@ This section contains SQL projects focused on data exploration, business insight
 - GROUP BY
 - ORDER BY
 - Aggregate Functions
+
