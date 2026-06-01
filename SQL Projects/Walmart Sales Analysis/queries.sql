@@ -1,21 +1,35 @@
--- Total Sales
-SELECT SUM(Total) AS Total_Sales
-FROM walmart_sales;
+# 🛒 Walmart Sales Analysis | SQL
 
--- Sales by Branch
-SELECT Branch,
-       SUM(Total) AS Revenue
-FROM walmart_sales
-GROUP BY Branch
-ORDER BY Revenue DESC;
+## Project Overview
 
--- Top Product Line
-SELECT Product_line,
-       SUM(Total) AS Revenue
-FROM walmart_sales
-GROUP BY Product_line
-ORDER BY Revenue DESC;
+This project analyzes Walmart sales data using SQL to identify revenue trends, branch performance, product performance, and customer behavior.
 
--- Average Rating
-SELECT AVG(Rating) AS Avg_Rating
-FROM walmart_sales;
+## SQL Skills Used
+
+* SELECT
+* WHERE
+* GROUP BY
+* ORDER BY
+* Aggregate Functions (SUM, AVG, COUNT)
+* SQL Filtering
+
+## Key Insights
+
+* Calculated total sales revenue.
+* Identified top-performing branches.
+* Analyzed revenue by product line.
+* Measured average customer ratings.
+
+## Files
+
+* queries.sql
+
+## Tools
+
+* SQL
+* MySQL
+* Data Analysis
+
+## Business Value
+
+This analysis helps businesses understand sales performance, identify profitable products, and improve decision-making through data-driven insights.
