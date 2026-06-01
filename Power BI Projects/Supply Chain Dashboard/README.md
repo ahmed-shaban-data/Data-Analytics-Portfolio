@@ -21,5 +21,5 @@ This Power BI dashboard analyzes supply chain performance across products, suppl
 - Power BI
 - DAX
 - Data Modeling
-- Data Visualization
+- Data Visualization 
 .
