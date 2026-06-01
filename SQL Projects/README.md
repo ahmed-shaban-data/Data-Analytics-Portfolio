@@ -1,15 +1,19 @@
-# SQL Projects
+# 🗄️ SQL Projects
 
-This folder contains my SQL practice projects.
+This section contains SQL projects focused on data exploration, business insights, and query optimization.
 
-## Skills
+## Projects
+
+### 🛒 Walmart Sales Analysis
+
+- Revenue Analysis
+- Branch Performance
+- Product Line Analysis
+- Customer Rating Analysis
+
+**Skills Used:**
 - SELECT
 - WHERE
 - GROUP BY
 - ORDER BY
-- HAVING
-- JOINS
-- Subqueries
 - Aggregate Functions
-
-Author: Ahmed Shaban
