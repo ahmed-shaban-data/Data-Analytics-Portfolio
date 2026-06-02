@@ -1,19 +1,17 @@
-# 📊 Data Analytics Portfolio
-
-Welcome to my Data Analytics Portfolio.
+# 📊 # Data Analytics Portfolio
 
 ## Power BI Projects
 
-### 👨‍💼 HR Analytics Dashboard
-- Employee Attrition Analysis
-- Job Satisfaction Insights
-- Workforce Demographics
+- Superstore Sales Dashboard
+- Supply Chain Dashboard
+- HR Analytics Dashboard
 
-### 🚚 Supply Chain Performance Dashboard
-- Revenue Analysis
-- Supplier Performance
-- Transportation Analysis
-- Defect Rate Monitoring
+## SQL Projects
+
+- Walmart Sales Analysis
+
+Welcome to my Data Analytics Portfolio.
+
 
 ## SQL Projects
 Coming Soon...
