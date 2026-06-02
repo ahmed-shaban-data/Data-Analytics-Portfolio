@@ -1,14 +1,28 @@
-# 📊# Data Analytics Portfolio
+# 📊 Data Analytics Portfolio
+
+Welcome to my Data Analytics Portfolio.
 
 ## Power BI Projects
 
-- Superstore Sales Dashboard
-- Supply Chain Dashboard
-- HR Analytics Dashboard
+### 👨‍💼 HR Analytics Dashboard
+HR dashboard analyzing attrition, demographics, and employee performance.
+
+### 🛒 Superstore Sales Dashboard
+Sales dashboard analyzing revenue, profit, regions, and customer segments.
+
+### 🚚 Supply Chain Dashboard
+Supply chain dashboard analyzing suppliers, transportation, stock, and defect rates.
 
 ## SQL Projects
 
-- Walmart Sales Analysis
+### 🏪 Walmart Sales Analysis
+SQL project focused on revenue analysis, branch performance, and customer insights.
 
-## Author
-Ahmed Shaban
+## Tools & Technologies
+
+- Power BI
+- Power Query
+- DAX
+- SQL
+- Excel
+- GitHub
