@@ -7,7 +7,7 @@ Welcome to my Data Analytics Portfolio.
 ### 👨‍💼 HR Analytics Dashboard 
 HR dashboard analyzing attrition, demographics, and employee performance.
 
-### 🛒 Superstore Sales Dashboard
+### 🛒 Superstore Sales Dashboard 
 Sales dashboard analyzing revenue, profit, regions, and customer segments.
 
 ### 🚚 Supply Chain Dashboard
