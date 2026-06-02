@@ -18,7 +18,7 @@ Interactive Power BI dashboard analyzing Superstore sales performance, profitabi
 
 ## Tools Used
 - Power BI
-- Power Query
+- Power Query 
 - DAX
 - Data Modeling
 
