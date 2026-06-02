@@ -24,4 +24,4 @@ Interactive Power BI dashboard analyzing Superstore sales performance, profitabi
 
 ## Dashboard Preview
 
-![Dashboard](dashboard-png)
+![Dashboard](dashboard-png.png)
