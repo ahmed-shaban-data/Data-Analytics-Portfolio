@@ -4,7 +4,7 @@ Welcome to my Data Analytics Portfolio.
 
 ## Power BI Projects
 
-### 👨‍💼 HR Analytics Dashboard
+### 👨‍💼 HR Analytics Dashboard 
 HR dashboard analyzing attrition, demographics, and employee performance.
 
 ### 🛒 Superstore Sales Dashboard
