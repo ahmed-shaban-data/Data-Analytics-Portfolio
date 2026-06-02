@@ -5,13 +5,21 @@
 
 This dashboard analyzes employee attrition, demographics, job roles, and workforce performance.
 
+## KPIs
+
+- Total Employees: 1K
+- Attrition Count: 237
+- Attrition Rate: 16%
+- Average Job Satisfaction: 2.73
+- Average Salary: 6.50K
+- Average Age: 37
+
 ## Tools Used
 
 - Power BI
 - Power Query
 - DAX
 
-## Key Insights
 
 ## Key Insights
 
@@ -29,3 +37,7 @@ This dashboard analyzes employee attrition, demographics, job roles, and workfor
 ## Dashboard Preview
 
 ![HR Dashboard](hr_dashboard.png)
+
+
+
+
